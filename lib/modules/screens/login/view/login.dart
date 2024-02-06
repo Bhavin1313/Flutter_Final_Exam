@@ -117,28 +117,6 @@ class Login extends StatelessWidget {
                   height: 50,
                 ),
                 GestureDetector(
-                  // onTap: () async {
-                  //   if (formKey.currentState!.validate()) {
-                  //     formKey.currentState!.save();
-                  //
-                  //     SignIn singIn = SignIn(
-                  //       email: email!,
-                  //       pass: pass!,
-                  //     );
-                  //
-                  //     Map<String, dynamic> res =
-                  //         await Auth_Helper.auth_helper.signIn(data: singIn);
-                  //
-                  //     if (res['user'] != null) {
-                  //       Get.offNamedUntil('/home', (routes) => false);
-                  //     } else if (res['error'] != null) {
-                  //       Get.snackbar("Flutter Chat App", "Login Failed");
-                  //     }
-                  //
-                  //     email_c.clear();
-                  //     pass_c.clear();
-                  //   }
-                  // },
                   onTap: () {
                     Get.offNamedUntil('/home', (routes) => false);
                   },

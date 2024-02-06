@@ -110,7 +110,9 @@ class Home extends StatelessWidget {
               Icons.favorite_border,
             ),
           ),
-          CircleAvatar(),
+          CircleAvatar(
+            child: Image.asset("lib/modules/assets/logo.png"),
+          ),
           SizedBox(
             width: 15,
           ),

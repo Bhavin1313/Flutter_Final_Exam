@@ -26,7 +26,7 @@ void main() async {
           name: '/',
           page: () => SplashScreen(),
         ),
-        // GetPage(name: '/intro', page: () => intropage()),
+        GetPage(name: '/intro', page: () => intropage()),
         GetPage(name: '/login', page: () => Login()),
         GetPage(name: '/signup', page: () => Signup()),
         GetPage(name: '/home', page: () => Home()),

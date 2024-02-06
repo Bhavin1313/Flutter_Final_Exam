@@ -165,7 +165,9 @@ class Signup extends StatelessWidget {
                       ),
                     ),
                     GestureDetector(
-                      onTap: () async {},
+                      onTap: () async {
+                        Get.back();
+                      },
                       child: Text(
                         "Log in",
                         style: GoogleFonts.getFont(

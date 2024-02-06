@@ -6,6 +6,10 @@ import 'package:google_fonts/google_fonts.dart';
 List<Map<String, dynamic>> addedProducts = [];
 
 class Global {
+  static PageController pageController = PageController();
+
+  static int currentPageIndex = 0;
+
   static TextStyle gilory36 = GoogleFonts.getFont(
     'Montserrat',
     fontSize: 36,
