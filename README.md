@@ -1,16 +1,9 @@
-# final1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/d728019e-928e-49ef-b2d4-b4dbf5024a1f" width="250px">
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/cee56509-90d1-4f26-8ff9-0c1c87403ee1" width="250px">
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/c4365b3c-89a6-45b9-a062-d499e3872e86" width="250px">
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/ee7b7dc1-7967-432c-90a4-cd03203941be" width="250px">
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/5b5a1561-38e2-4006-9666-4e8160ab9ffc" width="250px">
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/9ca13da4-04eb-409e-95ae-38bc43511ba0" width="250px">
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/91977bb2-6ab2-4e14-b153-7f7c2dafa125" width="250px">
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/d9db5ac2-3d05-4051-b44d-fd5bf02ab093" width="250px">
+<img src="https://github.com/Bhavin1313/Flutter_Final_Exam/assets/99348404/cce29c4a-59bb-40fb-8e70-da12c06ef952" width="250px">
