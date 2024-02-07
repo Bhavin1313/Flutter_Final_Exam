@@ -197,4 +197,6 @@ class Login extends StatelessWidget {
       ),
     );
   }
-
+  OutlineInputBorder outlineInputBorder() =>
+      OutlineInputBorder(borderSide: BorderSide(color: Color(0xff999999)));
+}
